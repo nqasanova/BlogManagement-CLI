@@ -4,7 +4,7 @@ A C# command-line application for managing blog entries, comments, and user inte
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Tech Stack](#tech-stack)
